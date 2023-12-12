@@ -1,0 +1,11 @@
+// ASSIGNMENT
+// Follow the instructions in the comments on lines 3, 6, and 9 to print information about one of MovieStarz user's email addresses.
+const email = 'johndoe@gmail.com'
+
+// print the first character in the string here
+console.log(email[0])
+// print the last character in the string here
+console.log(email[email.length - 1])
+
+// print the entire string here
+console.log(email)
